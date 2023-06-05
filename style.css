@@ -1,0 +1,39 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.container1{
+   text-align: center;
+  border: 5px dotted rgb(44, 42, 44); 
+  background-color: rgb(228, 221, 221);
+  font-size: 1rem;
+  margin: 15em;
+  padding: 1.5em;
+}
+
+  .circle {
+   background-color: gold;
+   width: 100px;
+   height: 100px;
+   border:2px solid black;
+   outline: 2px solid red;
+  }
+  .box{
+   margin: 1rem ;
+   margin-right: 2rem;
+   margin-left: 2rem;
+   margin-bottom: 2rem;
+border: 100px solid green;
+padding: 4rem;
+  }
+  #padding{
+background-color: rgb(253, 250, 250);   
+   margin: 1rem ;
+   margin-right: 2rem;
+   margin-left: 2rem;
+   margin-bottom: 2rem;
+outline: 10px dotted rgb(44, 42, 44);
+padding: 6rem;
+
+  }
